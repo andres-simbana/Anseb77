@@ -1,11 +1,21 @@
 <h1 align="center">Hi, I'm Anseb 👋</h1>
-<h3 align="center">QA Automation Engineer | Python · Selenium · Playwright</h3>
+<h3 align="center">QA Manual & Automation Jr | Python · Selenium · Playwright</h3>
 
 <p align="center">
   <a href="https://github.com/Anseb77">
     <img src="https://komarev.com/ghpvc/?username=Anseb77&color=brightgreen&style=flat-square" alt="profile views" />
   </a>
 </p>
+
+---
+
+### 🧪 About Me
+
+- Manual testing: test cases, bug reports, exploratory testing
+- Automation: E2E tests with Selenium and Playwright (Python)
+- Design pattern: Page Object Model (POM)
+- CI/CD: GitHub Actions
+- Currently looking for my first QA role 🚀
 
 ---
 
@@ -23,7 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
