@@ -39,6 +39,5 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [selenium-python-tests](https://github.com/andres-simbana/selenium-python-tests) | E2E test suite with Page Object Model against SauceDemo | Python · Selenium · Pytest |
 | [playwright-python-tests](https://github.com/andres-simbana/playwright-python-tests) | Modern browser automation with Playwright | Python · Playwright · Pytest |
 | [report-automation](https://github.com/andres-simbana/report-automation) | Playwright automation for slow-loading internal report system | Python · Playwright |
