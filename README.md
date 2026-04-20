@@ -43,3 +43,4 @@
 | [playwright-python-tests](https://github.com/andres-simbana/playwright-python-tests) | Modern browser automation with Playwright | Python · Playwright · Pytest |
 | [report-automation](https://github.com/andres-simbana/report-automation) | Playwright automation for slow-loading internal report system | Python · Playwright |
 | [qa-pipeline-showcase](https://github.com/andres-simbana/qa-pipeline-showcase) | Full CI/CD pipeline with automated QA tests | Python · Pytest · Playwright · Postman · GitHub Actions |
+| [api-testing-pytest](https://github.com/andres-simbana/api-testing-pytest) | REST API testing with fixtures, schema validation and HTML reports | Python · Pytest · Requests · GitHub Actions |
