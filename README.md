@@ -39,6 +39,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [ClaudeAutoTest](https://github.com/andres-simbana/claudeautotest) | Automated test case generation pipeline using Claude AI and Azure DevOps REST API | Python · Claude AI · Azure DevOps · GitHub Actions |
 | [restful-booker-selenium](https://github.com/andres-simbana/restful-booker-selenium) | Selenium E2E automation for Restful Booker hotel          platform | Python · Selenium · Pytest |
 | [playwright-python-tests](https://github.com/andres-simbana/playwright-python-tests) | Modern browser automation with Playwright | Python · Playwright · Pytest |
 | [report-automation](https://github.com/andres-simbana/report-automation) | Playwright automation for slow-loading internal report system | Python · Playwright |
